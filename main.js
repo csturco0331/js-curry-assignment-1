@@ -12,6 +12,7 @@ const regularListings = [
   listing('carlo rozzi', 20),
   listing('coffee', 5),
   listing('cookies', 6),
+  listing('hennessey', -15),
   listing('mountain dew', 2)
 ]
 
